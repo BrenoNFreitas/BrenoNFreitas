@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Me acompanhe pelo Linkedin https://www.linkedin.com/in/brenonfreitas/
 
 <!--
 **BrenoNFreitas/BrenoNFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
